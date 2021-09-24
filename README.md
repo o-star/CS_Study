@@ -19,4 +19,5 @@ CS 공부 참조URL 정리 공간
 
 - [운영체제와 커널이란? - 커널에 관해 이해하기 쉬운 설명](https://goodmilktea.tistory.com/23)
 - [System Call](https://fjvbn2003.tistory.com/306)
+- [프로세스 구조](https://velog.io/@gndan4/OS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B5%AC%EC%A1%B0)
 
