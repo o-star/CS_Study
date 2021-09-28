@@ -21,6 +21,7 @@ CS 공부 참조URL 정리 공간
 - [System Call](https://fjvbn2003.tistory.com/306)
 - [프로세스 구조](https://velog.io/@gndan4/OS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B5%AC%EC%A1%B0)
 - [Process Synchronizatioin](https://velog.io/@doyuni/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9COS-6.-Process-Synchronization)
+- [운영체제 참조 블로그](https://jooona.tistory.com/category/%EC%A0%84%EA%B3%B5%EA%B3%B5%EB%B6%80/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%28Operating%20System%29)
 
 <br/>
 
