@@ -15,6 +15,7 @@ CS 공부 참조URL 정리 공간
 - [TCP / UDP 비교글](https://coding-factory.tistory.com/614)
 - [NAT](https://run-it.tistory.com/24)
 - [IP class 계산방식](http://korean-daeddo.blogspot.com/2015/12/ip.html)
+- [네트워크 짱 참고 블로그](https://velog.io/@tonyhan18?tag=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 
 <br/>
 
