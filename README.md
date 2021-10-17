@@ -17,6 +17,8 @@ CS 공부 참조URL 정리 공간
 - [IP class 계산방식](http://korean-daeddo.blogspot.com/2015/12/ip.html)
 - [네트워크 짱 참고 블로그](https://velog.io/@tonyhan18?tag=%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
 - [DNS 쿼리 과정](https://lecor.tistory.com/78)
+- [웹 브라우저 동작 과정](https://d2.naver.com/helloworld/59361)
+- [script, css 태그 위치](https://sub0709.tistory.com/73)
 
 <br/>
 
