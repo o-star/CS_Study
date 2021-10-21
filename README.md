@@ -11,6 +11,7 @@ CS 공부 참조URL 정리 공간
 - [HTTP 정리 짱 블로그](https://victorydntmd.tistory.com/category/HTTP)
 - [HTTP 버전 정리 1](https://ijbgo.tistory.com/26)
 - [HTTP 버전 정리 2](https://velog.io/@zzzz465/HTTP1.1-2-3-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+- [HTTP 버전 정리 3](https://ykarma1996.tistory.com/86)
 - [CORS란?](https://beomy.github.io/tech/browser/cors/)
 - [TCP / UDP 비교글](https://coding-factory.tistory.com/614)
 - [NAT](https://run-it.tistory.com/24)
