@@ -49,4 +49,9 @@ CS 공부 참조URL 정리 공간
 
 - [Join에 관한 포스트](https://advenoh.tistory.com/23)
 - [ER Model](https://victorydntmd.tistory.com/126?category=687930)
+- [데이터베이스 인덱스 구현에 B Tree를 사용하는 이유](https://helloinyong.tistory.com/296)
+
+<br/>
+
+<br/>
 
