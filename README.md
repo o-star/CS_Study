@@ -42,6 +42,7 @@ CS 공부 참조URL 정리 공간
 ## 💻 Data Structure
 
 - [해시(Hash)](https://luyin.tistory.com/191)
+- [Red-Black Tree](https://zeddios.tistory.com/237)
 
 <br/>
 
