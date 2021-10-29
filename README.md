@@ -55,5 +55,12 @@ CS 공부 참조URL 정리 공간
 
 <br/>
 
+## 💻 Git
+
+- [git 기초](https://evan-moon.github.io/2019/07/25/git-tutorial/)
+- [Git 스테이징 단계](https://cornswrold.tistory.com/71)
+
+<br/>
+
 <br/>
 
