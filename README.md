@@ -43,6 +43,7 @@ CS 공부 참조URL 정리 공간
 
 - [해시(Hash)](https://luyin.tistory.com/191)
 - [Red-Black Tree](https://zeddios.tistory.com/237)
+- [Heap, Heap Sort 좋은 포스트](https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/)
 
 <br/>
 
