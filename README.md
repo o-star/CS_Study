@@ -21,6 +21,7 @@ CS 공부 참조URL 정리 공간
 - [웹 브라우저 동작 과정](https://d2.naver.com/helloworld/59361)
 - [script, css 태그 위치](https://sub0709.tistory.com/73)
 - [Cookie, Session](https://nesoy.github.io/articles/2017-03/Session-Cookie)
+- [세션 인증 VS 토큰 인증](https://mangkyu.tistory.com/55)
 
 <br/>
 
