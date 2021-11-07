@@ -23,6 +23,7 @@ CS 공부 참조URL 정리 공간
 - [Cookie, Session](https://nesoy.github.io/articles/2017-03/Session-Cookie)
 - [세션 인증 VS 토큰 인증](https://mangkyu.tistory.com/55)
 - [Jason Web Token](https://yonghyunlee.gitlab.io/node/jwt/)
+- [컴퓨터망 좋은 정리내용](https://brunch.co.kr/@toughrogrammer/16)
 
 <br/>
 
@@ -46,6 +47,7 @@ CS 공부 참조URL 정리 공간
 - [해시(Hash)](https://luyin.tistory.com/191)
 - [Red-Black Tree](https://zeddios.tistory.com/237)
 - [Heap, Heap Sort 좋은 포스트](https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/)
+- [연결리스트로 Merge Sort 구현하기](https://yahohococo.tistory.com/35)
 
 <br/>
 
