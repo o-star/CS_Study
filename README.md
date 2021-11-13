@@ -57,6 +57,7 @@ CS 공부 참조URL 정리 공간
 - [ER Model](https://victorydntmd.tistory.com/126?category=687930)
 - [데이터베이스 인덱스 구현에 B Tree를 사용하는 이유](https://helloinyong.tistory.com/296)
 - [B tree, B+ tree](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ya3344&logNo=221395287263)
+- [트랜잭션 격리수준](https://joont92.github.io/db/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC-%EC%88%98%EC%A4%80-isolation-level/)
 
 <br/>
 
