@@ -23,6 +23,7 @@ CS 공부 참조URL 정리 공간
 - [Cookie, Session](https://nesoy.github.io/articles/2017-03/Session-Cookie)
 - [세션 인증 VS 토큰 인증](https://mangkyu.tistory.com/55)
 - [Jason Web Token](https://yonghyunlee.gitlab.io/node/jwt/)
+- [nagle 알고리즘](https://ozt88.tistory.com/18)
 - [컴퓨터망 좋은 정리내용](https://brunch.co.kr/@toughrogrammer/16)
 
 <br/>
