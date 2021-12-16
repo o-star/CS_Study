@@ -68,6 +68,8 @@ CS 공부 참조URL 정리 공간
 - [Git 스테이징 단계](https://cornswrold.tistory.com/71)
 - [Git 유의점 4가지](https://medium.com/%EC%98%A4%EB%8A%98%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/git%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EB%95%8C-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-4-%EA%B0%80%EC%A7%80-f8a64f5fa558)
 - [Git branch naming](https://velog.io/@kim-jaemin420/Git-branch-naming)
+- [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
 
 <br/>
 
